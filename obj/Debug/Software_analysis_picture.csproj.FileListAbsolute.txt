@@ -1,0 +1,10 @@
+D:\RuanWenQiang\CongViec\DemoC#\Software_analysis_picture\obj\Debug\Software_analysis_picture.csproj.AssemblyReference.cache
+D:\RuanWenQiang\CongViec\DemoC#\Software_analysis_picture\obj\Debug\Software_analysis_picture.Form1.resources
+D:\RuanWenQiang\CongViec\DemoC#\Software_analysis_picture\obj\Debug\Software_analysis_picture.csproj.GenerateResource.cache
+D:\RuanWenQiang\CongViec\DemoC#\Software_analysis_picture\obj\Debug\Software_analysis_picture.csproj.CoreCompileInputs.cache
+D:\RuanWenQiang\CongViec\DemoC#\Software_analysis_picture\bin\Debug\VCS001_Analysis_Picture.exe.config
+D:\RuanWenQiang\CongViec\DemoC#\Software_analysis_picture\bin\Debug\VCS001_Analysis_Picture.exe
+D:\RuanWenQiang\CongViec\DemoC#\Software_analysis_picture\bin\Debug\VCS001_Analysis_Picture.pdb
+D:\RuanWenQiang\CongViec\DemoC#\Software_analysis_picture\obj\Debug\VCS001_Analysis_Picture.Properties.Resources.resources
+D:\RuanWenQiang\CongViec\DemoC#\Software_analysis_picture\obj\Debug\VCS001_Analysis_Picture.exe
+D:\RuanWenQiang\CongViec\DemoC#\Software_analysis_picture\obj\Debug\VCS001_Analysis_Picture.pdb
