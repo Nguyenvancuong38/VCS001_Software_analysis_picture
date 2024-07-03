@@ -82,6 +82,7 @@
             // 
             this.comboBox1.BackColor = System.Drawing.Color.White;
             this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.ItemHeight = 18;
             this.comboBox1.Location = new System.Drawing.Point(55, 51);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(140, 26);
@@ -91,7 +92,10 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Green;
-            this.button1.Location = new System.Drawing.Point(1051, 34);
+            this.button1.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.button1.Location = new System.Drawing.Point(322, 34);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 3, 3, 800);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(159, 43);
             this.button1.TabIndex = 2;
@@ -106,7 +110,7 @@
             this.richTextBox_result_output.ForeColor = System.Drawing.Color.White;
             this.richTextBox_result_output.Location = new System.Drawing.Point(53, 402);
             this.richTextBox_result_output.Name = "richTextBox_result_output";
-            this.richTextBox_result_output.Size = new System.Drawing.Size(1157, 324);
+            this.richTextBox_result_output.Size = new System.Drawing.Size(1157, 444);
             this.richTextBox_result_output.TabIndex = 4;
             this.richTextBox_result_output.Text = "";
             // 
@@ -114,7 +118,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(50, 18);
+            this.label1.Location = new System.Drawing.Point(50, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(160, 26);
             this.label1.TabIndex = 5;
@@ -125,6 +129,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(50, 367);
+            this.label2.Margin = new System.Windows.Forms.Padding(3, 500, 3, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(85, 26);
             this.label2.TabIndex = 6;
@@ -134,7 +139,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1273, 779);
+            this.ClientSize = new System.Drawing.Size(1271, 903);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.richTextBox_result_output);
